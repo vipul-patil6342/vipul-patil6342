@@ -1,6 +1,6 @@
 # Hi there, I'm Vipul Patil 👋
 
-I'm a passionate developer interested in I'm a passionate developer interested in building scalable full-stack applications, designing robust backend systems, and writing clean, maintainable code.
+I'm a passionate developer interested in building scalable full-stack applications, designing robust backend systems, and writing clean, maintainable code.
 
 ## About Me
 
@@ -16,7 +16,7 @@ I'm a passionate developer interested in I'm a passionate developer interested i
 
 **Frontend:** React, HTML/CSS, tailwindCSS.
 
-**Backend:**, Springboot.
+**Backend:** Springboot.
 
 **Databases:** MySQL.
 
