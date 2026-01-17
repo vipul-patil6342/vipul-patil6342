@@ -7,7 +7,7 @@ I'm a passionate developer interested in building scalable full-stack applicatio
 - 🌱 I'm learning **advanced Spring Security, Redis caching, and scalable REST API design**
 - 👯 I'm looking to collaborate on **backend-heavy full-stack projects and open-source Java applications**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, JWT authentication, and database design**
-- 📫 How to reach me: **vipulpatil6342@gmail.com**
+- 📫 How to reach me: **patilvipul2912@gmail.com**
 - ⚡ Fun fact: **I enjoy optimizing APIs and reducing response times more than writing UI 😄**
 
 ## Tech Stack
